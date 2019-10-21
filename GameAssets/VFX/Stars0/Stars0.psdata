@@ -1,0 +1,26 @@
+{
+    "emitters": [
+        {
+            "id": "main",
+            "spawnData": {
+                "spawnPosition": { "min": { "x": -1.5, "y": 1 }, "max": { "x": 1.35, "y": 1 } },
+                "bIsUnderlay": "true",
+                "spreadAngle": { "min": -90, "max": -90 },
+                "emitterAngle": { "min": 0, "max": 0 },
+                "spawnSpeed": { "min": 0.03, "max": 0.2},
+                "spawnAngularSpeed": { "min": 0, "max": 0 },
+                "numParticles": 5000,
+                "bPreWarm": true,
+                "bFireOnce": false
+            },
+            "lifetimeData": {
+                "ttlSecs": { "min": 8, "max": 16 },
+                "scaleOverTime": { "min": 0.25, "max": 0.05 },
+                "alphaOverTime": { "min": 255, "max": 150 }
+            },
+            "texturePath": "VFX/Stars0/00.png",
+            "startDelaySecs": 0,
+            "bStatic": false
+        }
+    ]
+}

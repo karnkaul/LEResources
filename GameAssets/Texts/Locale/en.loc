@@ -1,0 +1,22 @@
+{
+	"LOC_VIEWPORT_TITLE": "Little Engine",
+
+	"LOC_LOADING": "Loading",
+	"LOC_LOADING_ASSETS": "Loading Assets",
+	"LOC_WORLD_Boot": "Boot",
+	"LOC_WORLD_Test": "Test",
+
+	"LOC_START": "Start",
+	"LOC_OPTIONS": "Options",
+	"LOC_QUIT": "Quit",
+	"LOC_HELP": "Help",
+	"LOC_CLOSE": "Close",
+
+	"LOC_LOAD_WORLD": "Load World",
+	"LOC_RELOAD": "Reload",
+	"LOC_DEBUG": "Debug",
+	"LOC_RESOLUTION": "Resolution",
+	"LOC_BORDERLESS": "Borderless",
+
+	"LOC_HELLO_WORLD!": "Hello World!"
+}

@@ -1,0 +1,9 @@
+{
+	"textureSets": [
+		{
+			"pathPrefix": "Misc/STRESS_TEST",
+			"count": 20,
+			"assetSuffix": ".png"
+		}
+	]
+}

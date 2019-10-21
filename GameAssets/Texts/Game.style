@@ -1,0 +1,49 @@
+{
+    "styles": [
+        {
+            "size": { "x": 200, "y": 60 },
+            "background": "white",
+            "uninteractable": {
+                "fill": "#969696"
+            },
+            "notSelected": {
+                "fill": "#ff8745"
+            },
+            "selected": {
+                "fill": "#bf3c13",
+                "textColour": "white",
+                "border": 0
+            },
+            "interacting": {
+                "fill": "#ff96ff"
+            }
+        },
+        {
+            "id": "alternate0",
+            "notSelected": {
+                "fill": "#ef798a"
+            },
+            "selected": {
+                "fill": "#8a4f7d",
+                "textColour": "white",
+                "border": 3
+            },
+            "interacting": {
+                "fill": "#ff96ff"
+            }
+        },
+        {
+            "id": "UIToggle",
+            "notSelected": {
+                "fill": "#ef798a"
+            },
+            "selected": {
+                "fill": "#8a4f7d",
+                "border": 5
+            },
+            "interacting": {
+                "fill": "#ff96ff"
+            }
+        }
+    ]
+}
